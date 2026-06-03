@@ -4,6 +4,7 @@ Public update artifacts and Sparkle feed for Aurora.
 
 ## Downloads
 
+- [Aurora 1.1.5](https://ahumed777.github.io/aurora-updates/Aurora-1.1.5.zip)
 - [Aurora 1.1.4](https://ahumed777.github.io/aurora-updates/Aurora-1.1.4.zip)
 - [Aurora 1.1.2](https://ahumed777.github.io/aurora-updates/Aurora-1.1.2.zip)
 - [Aurora 1.1](https://ahumed777.github.io/aurora-updates/Aurora-1.1.zip)
