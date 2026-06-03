@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://ahumed777.github.io/aurora-updates/Aurora-1.1.5.html</sparkle:releaseNotesLink>
-            <enclosure url="Aurora-1.1.5.zip" length="12478296" type="application/octet-stream"/>
+            <enclosure url="Aurora-1.1.5.zip" sparkle:edSignature="fFcU+d5fiTxQRvMWix0837u6AfzDePERA9mW7d2L1KCuQEtY1Be6LcPPQhi+QUlFrjmg2iAB7gPNM0U9FQ4/BQ==" length="12478296" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
