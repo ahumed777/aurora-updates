@@ -3,6 +3,17 @@
 This file records the public Aurora update artifacts. Add user-facing feature
 details before each future release.
 
+## [1.1.5] - 2026-06-03
+
+### Added
+
+- Published `Aurora-1.1.5.zip`.
+- Added release notes for Sparkle's update window.
+
+### Changed
+
+- Updated `appcast.xml` to advertise Aurora 1.1.5.
+
 ## [1.1.4] - 2026-06-02
 
 ### Added
