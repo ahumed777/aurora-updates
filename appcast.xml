@@ -4,12 +4,12 @@
         <title>Aurora</title>
         <item>
             <title>1.1.5</title>
-            <pubDate>Sun, 21 Jun 2026 18:15:00 +0300</pubDate>
-            <sparkle:version>6</sparkle:version>
+            <pubDate>Sun, 21 Jun 2026 18:18:45 +0300</pubDate>
+            <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://ahumed777.github.io/aurora-updates/Aurora-1.1.5.html</sparkle:releaseNotesLink>
-            <enclosure url="https://raw.githubusercontent.com/ahumed777/aurora-updates/main/Aurora-1.1.5.zip" sparkle:edSignature="26TjVakvXnS3x/cwCi1FKpqtRxgpgRrfTzmWrQoWdESVex3b3augA9KWOnb93zQh5+PdV1UiL3/95qLzFhELCg==" length="8074501" type="application/octet-stream"/>
+            <enclosure url="https://raw.githubusercontent.com/ahumed777/aurora-updates/main/Aurora-1.1.5.zip" sparkle:edSignature="dKRbefolV2/pIbQExaJD7imiFW6Rcz+7ciE/ZvWgqXI4jauzftIqS57bg2GDxR6nFoilDS4f+UP63zr4ItKBCg==" length="8070523" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
