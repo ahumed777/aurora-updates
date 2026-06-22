@@ -3,13 +3,13 @@
     <channel>
         <title>Aurora</title>
         <item>
-            <title>1.1.5</title>
-            <pubDate>Sun, 21 Jun 2026 22:04:00 +0300</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
+            <title>1.1.6</title>
+            <pubDate>Mon, 22 Jun 2026 08:59:00 +0300</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://ahumed777.github.io/aurora-updates/Aurora-1.1.5.html</sparkle:releaseNotesLink>
-            <enclosure url="https://raw.githubusercontent.com/ahumed777/aurora-updates/main/Aurora-1.1.5.zip" sparkle:edSignature="AzYSM1k5GnkscQqYKMMFyW00kO3OEnCtAE9nwi5mxp/eMlHwfbtyz/CQccFFUYUdOp9r8qCx3hpO09aMHKOaCQ==" length="9087479" type="application/octet-stream"/>
+            <sparkle:releaseNotesLink>https://ahumed777.github.io/aurora-updates/Aurora-1.1.6.html</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/ahumed777/aurora-updates/main/Aurora-1.1.6.zip" sparkle:edSignature="XXMLQgzoZyggXV3aQC5jKfuFrIpbN9M2pc7FLlMN0YB1GqLUrV/wXdbX0kUY0UzZhqoPHx7rulmVb8ecU8C5Cg==" length="9091167" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
