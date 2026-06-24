@@ -1,2 +1,0 @@
-8498854fe1068ab41e15860533d2a4f7b91036384ad4df283b71415af62a83b9  /Users/dima/Downloads/New Aurora_Complete/AuroraNotch_CompletePack/.release-output/20260624-161328/Aurora-1.1.6-macOS-notarized.zip
-d12ba5e4e663d2ea273ad269fd43ae3931ed331383591347994121237e876e25  /Users/dima/Downloads/New Aurora_Complete/AuroraNotch_CompletePack/.release-output/dmg/1.1.6-19/Aurora-1.1.6.dmg
