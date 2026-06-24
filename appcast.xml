@@ -1,5 +1,5 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version='1.0' standalone='yes'?>
+<rss xmlns:sparkle='http://www.andymatuschak.org/xml-namespaces/sparkle' version='2.0'>
     <channel>
         <title>Aurora</title>
         <item>
@@ -9,20 +9,9 @@
             <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://ahumed777.github.io/aurora-updates/Aurora-1.1.6.html</sparkle:releaseNotesLink>
-            <enclosure url="https://ahumed777.github.io/aurora-updates/Aurora-1.1.6.dmg" length="10159125" type="application/octet-stream" sparkle:edSignature="0NaYKDKaAGe1jMh1rzj0mc6izwarfM3HWJEH+w5UTVD3RqLdIJcBmwAupUDmrdrvUI4YMqwCmP/xC/XN8xHgBg=="/>
+            <enclosure sparkle:edSignature='0NaYKDKaAGe1jMh1rzj0mc6izwarfM3HWJEH+w5UTVD3RqLdIJcBmwAupUDmrdrvUI4YMqwCmP/xC/XN8xHgBg==' length='10159125' type='application/octet-stream' url='https://ahumed777.github.io/aurora-updates/Aurora-1.1.6.dmg'/>
         </item>
-        <item>
-            <title>1.1.6</title>
-            <pubDate>Wed, 24 Jun 2026 20:46:23 +0300</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://ahumed777.github.io/aurora-updates/Aurora-1.1.6.html</sparkle:releaseNotesLink>
-            <enclosure url="https://ahumed777.github.io/aurora-updates/Aurora-1.1.6.dmg" length="10143074" type="application/octet-stream" sparkle:edSignature="XCDS6QnRcc8iy4hNHMmxkSSah44ZgZlLuIc1BDOU+FOYq35dsHRnlHwvLIv4nrDODisYEtwHfIo+bJd1nlGGDw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://ahumed777.github.io/aurora-updates/Aurora20-9.delta" sparkle:deltaFrom="9" length="1444946" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TEcTy9up9GGZJqBR3idOoXblV770vEBkeECZ0Hqd1ENVeFPvGy9mwyledhW2KIyvpOEKq5a8h29X51iWeMgFAA=="/>
-            </sparkle:deltas>
-        </item>
+        
         <item>
             <title>1.1.5</title>
             <pubDate>Mon, 22 Jun 2026 14:49:30 +0300</pubDate>
@@ -37,7 +26,7 @@
     <li>Added the 1.1.5 download entry to the public updates page.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://ahumed777.github.io/aurora-updates/Aurora-1.1.5.zip" length="9087479" type="application/octet-stream" sparkle:edSignature="AzYSM1k5GnkscQqYKMMFyW00kO3OEnCtAE9nwi5mxp/eMlHwfbtyz/CQccFFUYUdOp9r8qCx3hpO09aMHKOaCQ=="/>
+            <enclosure sparkle:edSignature='AzYSM1k5GnkscQqYKMMFyW00kO3OEnCtAE9nwi5mxp/eMlHwfbtyz/CQccFFUYUdOp9r8qCx3hpO09aMHKOaCQ==' length='9087479' type='application/octet-stream' url='https://ahumed777.github.io/aurora-updates/Aurora-1.1.5.zip'/>
         </item>
     </channel>
 </rss>
