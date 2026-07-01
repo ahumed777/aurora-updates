@@ -2,10 +2,11 @@
 <html lang="en"><head><meta charset="utf-8"><title>Aurora 1.1.6</title></head>
 <body>
 <h1>Aurora 1.1.6</h1>
-<h2>Build 25</h2>
+<h2>Build 26</h2>
 <ul>
-<li>Added a red update badge to the expanded notch settings gear when an update is available.</li>
-<li>Updated the post-update walkthrough so each build shows only the actual changes for that build.</li>
-<li>Fixed release publishing so Sparkle release notes show the correct build number and current build notes.</li>
+<li>Update labels now include the exact build when Sparkle reports same-version maintenance updates.</li>
+<li>Stable recovery downloads now use the same GitHub Pages DMG host as the public update feed.</li>
+<li>Added a release preflight script for version, signing, notary, GitHub, Sparkle, and public URL checks.</li>
+<li>Made appcast publishing safer by backing up the existing appcast and restoring hidden files if generation fails.</li>
 </ul>
 </body></html>
