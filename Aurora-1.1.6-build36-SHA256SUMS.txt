@@ -1,0 +1,2 @@
+fbd411f325169d86717e9d60adb58dd9c4245d5e8b4b315061eca15fcf53a50e  /private/tmp/aurora-release/20260727-110540/Aurora-1.1.6-macOS-notarized.zip
+88c148bcb72001550b65b16f1ab86d292e966457151c1fec31bb5c6f482d7ecf  /private/tmp/aurora-release/dmg/Aurora-1.1.6-macOS.dmg
